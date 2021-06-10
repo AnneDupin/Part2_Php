@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: black;
+    color: whitesmoke;
+    font-family: 'Lato', sans-serif;
+}
+
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: paleturquoise;
+    border-bottom: 3px solid grey;
+    width: 100%;
+    z-index: 1;
+    text-align: center;
+}
+
+h1 {
+    text-align 
+}
+
+h1:hover {
+    color: black;
+}
+
+.contenu {
+    padding: 100px 0;
+
+}
+
+
